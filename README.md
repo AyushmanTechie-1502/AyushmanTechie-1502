@@ -1,15 +1,18 @@
-Hello! I'm Ayushman Singh,
-A Computer Science student at VIT, specializing in Cyber Security. As a passionate learner, I continuously strive to expand my knowledge and skills in this ever-evolving field.
+Hey there
 
-I work with Python and Java, and I am always on the lookout for new challenges. Participating in various coding competitions excites me, and I love to test my skills against others.
-The thrill of solving complex problems keeps me motivated and sharp.
-I am also keen on contributing to open-source projects, where I can collaborate with other talented developers and make a positive impact on the tech community.
+How’s it going? Glad you landed here.
+I’m Ayushman Singh,
+A computer science student at VIT Bhopal. I spend a good chunk of my time learning and experimenting with my ideas, trying to turn them into working projects that make sense in real life.
 
-Communication is one of my strong suits. I have excellent speaking skills, which help me in presenting my ideas clearly and effectively.
-Whether it's working on a team project or leading a discussion, I can convey my thoughts with confidence.
+Beyond Engineering-
+Life isn’t just about coding for me. I love athletics, singing, and honestly… food (yes, eating is a real hobby for me). These things keep me grounded, make me happy, and give me new energy to get back to work.
 
-Beyond the tech world and my studies, I have a deep love for singing. Music is my way of expressing creativity and finding balance in life. Exploring new places is another passion of mine.
-Traveling opens up new perspectives and experiences, enriching my personal and professional growth.
+A Thought I Live By-
+People often ask, “Where do you see yourself in the next 3–4 years?”
+Truth is, I don’t really buy into that. Life isn’t a straight line—you never know what tomorrow brings. So instead of mapping out years ahead, I try to focus on today: learning something new, finishing what I start, and making the present meaningful.
 
-I am always eager to seize new opportunities and take on diverse challenges. Working in a team is something I thoroughly enjoy, as it fosters collaboration, innovation, and collective success.
-My goal is to make meaningful contributions in the field of Cyber Security while continuously growing and learning.
+Skills
+Programming: Python, Java
+
+My Goal
+Not a big, shiny goal—just a simple one: keep learning, keep building, and stay consistent. I believe that’s what really shapes where life takes you.
